@@ -15,32 +15,26 @@ Platform assembly: C:\Users\greek\Documents\Unity\The Impossible Squirrel in the
 Loading C:\Users\greek\Documents\Unity\The Impossible Squirrel in the Deep\Builds\The Impossible Squirrel Of The Deep_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\greek\Documents\Unity\The Impossible Squirrel in the Deep\Builds\The Impossible Squirrel Of The Deep_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\greek\Documents\Unity\The Impossible Squirrel in the Deep\Builds\The Impossible Squirrel Of The Deep_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.116 seconds
+- Completed reload, in  0.117 seconds
 Platform assembly: C:\Users\greek\Documents\Unity\The Impossible Squirrel in the Deep\Builds\The Impossible Squirrel Of The Deep_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\greek\Documents\Unity\The Impossible Squirrel in the Deep\Builds\The Impossible Squirrel Of The Deep_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.067422 ms
+UnloadTime: 1.304542 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 19.012724 ms
+UnloadTime: 4.554760 ms
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 612.
-Total: 0.969628 ms (FindLiveObjects: 0.117805 ms CreateObjectMapping: 0.170666 ms MarkObjects: 0.617345 ms  DeleteObjects: 0.062300 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.056849 ms
-
-Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 3597.
-Total: 1.329463 ms (FindLiveObjects: 0.204649 ms CreateObjectMapping: 0.160094 ms MarkObjects: 0.794430 ms  DeleteObjects: 0.169533 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 0.233345 ms (FindLiveObjects: 0.022277 ms CreateObjectMapping: 0.017368 ms MarkObjects: 0.181238 ms  DeleteObjects: 0.012082 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.819658 ms
+UnloadTime: 0.456117 ms
 
-Unloading 504 unused Assets to reduce memory usage. Loaded Objects now: 486.
-Total: 1.690808 ms (FindLiveObjects: 0.048330 ms CreateObjectMapping: 0.045309 ms MarkObjects: 0.243917 ms  DeleteObjects: 1.352873 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 489.
+Total: 0.252979 ms (FindLiveObjects: 0.037758 ms CreateObjectMapping: 0.023787 ms MarkObjects: 0.186147 ms  DeleteObjects: 0.004153 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1f10 -> priority: 1 
-  Thread -> id: 3b80 -> priority: 1 
+  Thread -> id: 19b0 -> priority: 1 
+  Thread -> id: c80 -> priority: 1 
